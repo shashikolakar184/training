@@ -57,7 +57,7 @@
 				<extensions>true</extensions>
 				<configuration>
 					<serverId>nexus</serverId>
-					<nexusUrl>http://http://192.168.43.171:8081/nexus/</nexusUrl>
+					<nexusUrl>http://192.168.43.171:8081/#browse/browse:latest_spring3/</nexusUrl>
 				</configuration>
 			</plugin>
 
