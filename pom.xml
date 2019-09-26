@@ -24,10 +24,10 @@
 		<repository>
 			<id>nexus</id>
 			<name>Calculator</name>
-			<url>http://192.168.43.171:8081/#browse/browse:latest_spring3</url>
+			<url>http://192.168.43.171:8081/nexus/content/repositories/releases/</url>
 			<layout>default</layout>
 		</repository>
-		<!-- snapshotRepository> <id>calculator</id> <url>http://192.168.43.171:8081/#browse/browse:latest_spring3</url> 
+		<!-- snapshotRepository> <id>calculator</id> <url>http://192.168.43.171:8081/nexus/content/repositories/snapshots/</url> 
 			</snapshotRepository -->
 	</distributionManagement>
 
