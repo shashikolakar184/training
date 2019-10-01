@@ -33,7 +33,7 @@
 			<name>Calculator</name>
 			<url>http://192.168.43.171:8081/repository/SAMPLE_SNAP/</url>
 			<layout>default</layout>
-		</sanpshotrepository>
+		</sanpshotRepository>
 		
 		<!-- snapshotRepository> <id>calculator</id> <url>http://192.168.43.171:8081/repository/SAMPLE_SNAP/</url> 
 			</snapshotRepository -->
