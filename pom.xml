@@ -54,7 +54,7 @@
 				<extensions>true</extensions>
 				<configuration>
 					<serverId>nexus</serverId>
-					<nexusUrl>http://192.168.43.171:8081/nexus</nexusUrl>
+					<nexusUrl>http://192.168.43.171:8081/repository/SAMPLE-REL/</nexusUrl>
 				</configuration>
 			</plugin>
 
