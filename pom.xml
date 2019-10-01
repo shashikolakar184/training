@@ -27,12 +27,6 @@
 			<url>http://192.168.43.171:8081/repository/SAMPLE-REL/</url>
 			<layout>default</layout>
 		</repository>	
-		<snapshotRepository>
-			<id>nexus</id>
-			<name>Calculator</name>
-			<url>http://192.168.43.171:8081/repository/SAMPLE_SNAP/</url>
-			<layout>default</layout>
-		</sanpshotRepository>
 		<!-- snapshotRepository> <id>calculator</id> <url>http://192.168.43.171:8081/repository/SAMPLE_SNAP/</url> 
 			</snapshotRepository -->	
 	</distributionManagement>
