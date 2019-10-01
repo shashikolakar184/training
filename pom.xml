@@ -20,16 +20,6 @@
 		<jacoco.version>0.8.1</jacoco.version>
 		<junit.version>4.12</junit.version>
 	</properties>
-	<distributionManagement>
-		<repository>
-			<id>nexus</id>
-			<name>Calculator</name>
-			<url>http://192.168.43.171:8081/repository/SAMPLE-REL/</url>
-			<layout>default</layout>
-		</repository>	
-		<!-- snapshotRepository> <id>calculator</id> <url>http://192.168.43.171:8081/repository/SAMPLE_SNAP/</url> 
-			</snapshotRepository -->	
-	</distributionManagement>
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
@@ -37,9 +27,7 @@
 			<version>4.12</version>
 			<scope>test</scope>
 		</dependency>
-
 	</dependencies>
-
 	<build>
 		<plugins>
 			<!-- plugin> <groupId>org.sonatype.plugins</groupId> <artifactId>nexus-staging-maven-plugin</artifactId> 
